@@ -35,3 +35,4 @@ Circle N X Y SX SY R G B R
 - Initial Speed (SX, SY) float, float
 - RGB Color (R, G, B) int, int, int
 - Radius R float, float
+<img width="1392" alt="Screenshot 2023-12-16 at 22 08 08" src="https://github.com/kin789246/a1-4300-cpp/assets/30062348/03baba99-bef5-4b7a-8241-5d94ca2cf5ec">
